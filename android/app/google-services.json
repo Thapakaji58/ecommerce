@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994117346733",
+    "project_id": "sk-kitchen",
+    "storage_bucket": "sk-kitchen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994117346733:android:0f341a55de9eec1ff16d24",
+        "android_client_info": {
+          "package_name": "com.example.sk_kitchen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr41g984nOtlXDKAvblHe81-j8C5AyOlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
